@@ -3,7 +3,7 @@ Includes two separate challenges.
 Pybank, and PyPoll.
 
 ## PyBank
-Pybank looks through financial data to extract:
+Pybank analyzes a company's financial data to extract:
 - The total number of months included in the dataset
 - The net total amount of "Profit/Losses" over the entire period
 
