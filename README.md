@@ -14,3 +14,4 @@ And uses that data to calculate:
 
 The script prints the analysis to the terminal and exports a text file with the results.
 ## PyPoll
+PyPoll analyzes election data of a small town and calculates:
