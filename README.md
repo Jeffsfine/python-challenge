@@ -20,4 +20,5 @@ PyPoll analyzes election data of a small town and calculates:
 - The percentage of votes each candidate won
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
+
 The script also prints the analysis to the terminal and exports a text file with the results.
