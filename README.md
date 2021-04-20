@@ -11,4 +11,6 @@ And uses that data to calculate:
     - The average of those changes
     -The greatest increase in profits (date and amount) over the entire period
     -The greatest decrease in losses (date and amount) over the entire period
+
+The script prints the analysis to the terminal and exports a text file with the results.
 ## PyPoll
